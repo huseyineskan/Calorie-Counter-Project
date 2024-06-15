@@ -11,3 +11,7 @@ In this practice project, you'll learn basic regular expressions, template liter
 - A person can enter her/his daily calorie target.
 - He/She can add how many calories he consumes for breakfast, lunch, dinner and snacks, and enter how many calories he burns through exercises.
 - As a result, it can display whether I have a calorie deficit or a calorie surplus.
+
+## Screenshot
+
+![Uygulama Ekran Görüntüsü](https://github.com/huseyineskan/Calorie-Counter-Project/blob/main/Calorie-Counter.png)
